@@ -1,1 +1,1 @@
-freeCodeCamp's bookstore-page mini project
+FCC's bookstore-page mini project
